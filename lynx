@@ -1,0 +1,158 @@
+###### MOVIE #######
+
+#EXTINF:-1 tvg-logo="https://github.com/xura-kura/icon/raw/master/logo_imc_big.png" group-title="MOVIES",IMC
+http://brhn.xyz/useetvgo/m3u/imc.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/xura-kura/icon/raw/master/logo_celestialmovie_big.png" group-title="MOVIES",Celestial Movie
+http://brhn.xyz/useetvgo/m3u/celestialmovie.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/xura-kura/icon/raw/master/logo_cinemaworld_big.png" group-title="MOVIES",Cinema World
+http://210.210.155.35/uq2663/h/h04/index2.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/xura-kura/icon/raw/master/logo_bioskopindonesia_big1.png" group-title="MOVIES",Bioskop Indonesia
+http://brhn.xyz/useetvgo/m3u/bioskopindonesia.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/xura-kura/icon/raw/master/logo_flik_big1.png" group-title="MOVIES",Flik
+http://brhn.xyz/useetvgo/m3u/flik.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/xura-kura/icon/raw/master/logo_galaxy_big1.png" group-title="MOVIES",Galaxy
+http://brhn.xyz/useetvgo/m3u/galaxy.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/xura-kura/icon/raw/master/logo_thrill_big.png" group-title="MOVIES",Thrill
+http://brhn.xyz/useetvgo/m3u/thrill.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/xura-kura/icon/raw/master/logo_zbioskop_big1.png" group-title="MOVIES",ZeeBioskop
+http://210.210.155.35/qwr9ew/s/s32/01.m3u8?fluxustv.m3u8
+
+
+
+
+
+####### KIDS #######
+
+#EXTINF:-1 tvg-logo="https://github.com/xura-kura/icon/raw/master/logo_aniplus_big1.png" group-title="KIDS",Aniplus
+http://brhn.xyz/useetvgo/m3u/aniplus.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/xura-kura/icon/raw/master/logo_animax_big.png" group-title="KIDS",Animax
+http://brhn.xyz/useetvgo/m3u/animax.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/xura-kura/icon/raw/master/logo_babyfirst_big.png" group-title="KIDS",Baby First
+http://brhn.xyz/useetvgo/m3u/babyfirst.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/xura-kura/icon/raw/master/logo_duck_big1.png" group-title="KIDS",Duck Tv
+http://brhn.xyz/useetvgo/m3u/ducktv.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/xura-kura/icon/raw/master/logo_horee_big.png" group-title="KIDS",Hore
+http://brhn.xyz/useetvgo/m3u/horee.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/xura-kura/icon/raw/master/logo_boomerang_big.png" group-title="KIDS",Boomerang
+http://brhn.xyz/useetvgo/m3u/boomerang.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/xura-kura/icon/raw/master/logo_cartoonnetwork_big.png" group-title="KIDS",Cartoon Network
+http://brhn.xyz/useetvgo/m3u/cartoonnetwork.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/xura-kura/icon/raw/master/logo_nickjr_big.png" group-title="KIDS",Nick Jr
+http://brhn.xyz/useetvgo/m3u/nickjr.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/xura-kura/icon/raw/master/logo_nickelodeon_big.png" group-title="KIDS",Nickelodeon
+http://brhn.xyz/useetvgo/m3u/nickelodeon.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/xura-kura/icon/raw/master/logo_davinci_big1.png" group-title="KIDS",Da Vinci
+http://brhn.xyz/useetvgo/m3u/davinci.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/xura-kura/icon/raw/master/logo_dreamworks_big1.png" group-title="KIDS",DreamWorks
+http://brhn.xyz/useetvgo/m3u/dreamworks.m3u8
+
+
+####### SPORTS ########
+
+#EXTINF:-1 tvg-logo="https://github.com/xura-kura/icon/raw/master/logo_bein1_big1.png" group-title="SPORTS",Bein Sports 1
+http://brhn.xyz/useetvgo/m3u/bein1.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/xura-kura/icon/raw/master/logo_bein2_big1.png" group-title="SPORTS",Bein Sports 2
+http://brhn.xyz/useetvgo/m3u/bein2.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/xura-kura/icon/raw/master/logo_useesport_big.png" group-title="SPORTS",UseeSports
+http://brhn.xyz/useetvgo/m3u/useesport.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/xura-kura/icon/raw/master/logo_useesports2_big.png" group-title="SPORTS",UseeSports 2
+http://brhn.xyz/useetvgo/m3u/useesports2.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/xura-kura/icon/raw/master/logo_champ1_big.png" group-title="SPORTS",Champions 1
+http://brhn.xyz/useetvgo/m3u/champion1.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/xura-kura/icon/raw/master/logo_champ2_big.png" group-title="SPORTS",Champions 2
+http://brhn.xyz/useetvgo/m3u/champion2.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/xura-kura/icon/raw/master/logo_foxsports1_big.png" group-title="SPORTS",FOX Sports 1
+http://brhn.xyz/useetvgo/m3u/foxsport1.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/xura-kura/icon/raw/master/logo_foxsports2_big.png" group-title="SPORTS",FOX Sports 2
+http://brhn.xyz/useetvgo/m3u/foxsport2.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/xura-kura/icon/raw/master/logo_foxsports3_big.png" group-title="SPORTS",FOX Sports 3
+http://brhn.xyz/useetvgo/m3u/foxsport3.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/xura-kura/icon/raw/master/logo_nba_big1.png" group-title="SPORTS",NBA
+http://brhn.xyz/useetvgo/m3u/nba.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/xura-kura/icon/raw/master/logo_egg_big1.png" group-title="SPORTS",Egg Network
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
+
+
+
+
+####### MASIH PROSES #####
+
+
+#EXTINF:-1 tvg-logo="" group-title="UNSORTED",Gem Junior
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="UNSORTED",Ebs Kids
+http://ebsonair.ebs.co.kr:1935/ebsufamilypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="UNSORTED",Disney Channel
+http://103.47.132.164/PLTV/88888888/224/3221226011/02.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="UNSORTED",S-ONE
+http://brhn.xyz/useetvgo/m3u/sone.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="UNSORTED",S-GEM
+http://brhn.xyz/useetvgo/m3u/sgem.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="UNSORTED",AXN
+http://rr.dens.tv/h/h141/02.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="UNSORTED",Warner
+http://brhn.xyz/useetvgo/m3u/warner.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="UNSORTED",Chinese Drama
+http://brhn.xyz/useetvgo/m3u/chinesedrama.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="UNSORTED",KIX
+http://45.126.83.51/uq2663/h/h07/01.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="UNSORTED",K+
+http://brhn.xyz/useetvgo/m3u/kplus.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="UNSORTED",WakuWaku Japan
+http://brhn.xyz/useetvgo/m3u/wakuwaku.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="UNSORTED",TVN
+http://brhn.xyz/useetvgo/m3u/tvn.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="UNSORTED",TVN Movies
+http://brhn.xyz/kochenk/tvnm.php/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="UNSORTED",Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="UNSORTED",Citra Drama
+http://brhn.xyz/useetvgo/m3u/cdrama.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="UNSORTED",Dunia Lain
+http://brhn.xyz/useetvgo/m3u/dunialain.m3u8
