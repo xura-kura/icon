@@ -105,54 +105,54 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
 ####### MASIH PROSES #####
 
 
-#EXTINF:-1 tvg-logo="" group-title="UNSORTED",Gem Junior
+#EXTINF:-1 tvg-logo="" group-title="LYNX",Gem Junior
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="UNSORTED",Ebs Kids
+#EXTINF:-1 tvg-logo="" group-title="LYNX",Ebs Kids
 http://ebsonair.ebs.co.kr:1935/ebsufamilypc/familypc1m/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="UNSORTED",Disney Channel
+#EXTINF:-1 tvg-logo="" group-title="LYNX",Disney Channel
 http://103.47.132.164/PLTV/88888888/224/3221226011/02.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="UNSORTED",S-ONE
+#EXTINF:-1 tvg-logo="" group-title="LYNX",S-ONE
 http://brhn.xyz/useetvgo/m3u/sone.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="UNSORTED",S-GEM
+#EXTINF:-1 tvg-logo="" group-title="LYNX",S-GEM
 http://brhn.xyz/useetvgo/m3u/sgem.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="UNSORTED",AXN
+#EXTINF:-1 tvg-logo="" group-title="LYNX",AXN
 http://rr.dens.tv/h/h141/02.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="UNSORTED",Warner
+#EXTINF:-1 tvg-logo="" group-title="LYNX",Warner
 http://brhn.xyz/useetvgo/m3u/warner.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="UNSORTED",Chinese Drama
+#EXTINF:-1 tvg-logo="" group-title="LYNX",Chinese Drama
 http://brhn.xyz/useetvgo/m3u/chinesedrama.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="UNSORTED",KIX
+#EXTINF:-1 tvg-logo="" group-title="LYNX",KIX
 http://45.126.83.51/uq2663/h/h07/01.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="UNSORTED",K+
+#EXTINF:-1 tvg-logo="" group-title="LYNX",K+
 http://brhn.xyz/useetvgo/m3u/kplus.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="UNSORTED",WakuWaku Japan
+#EXTINF:-1 tvg-logo="" group-title="LYNX",WakuWaku Japan
 http://brhn.xyz/useetvgo/m3u/wakuwaku.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="UNSORTED",TVN
+#EXTINF:-1 tvg-logo="" group-title="LYNX",TVN
 http://brhn.xyz/useetvgo/m3u/tvn.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="UNSORTED",TVN Movies
+#EXTINF:-1 tvg-logo="" group-title="LYNX",TVN Movies
 http://brhn.xyz/kochenk/tvnm.php/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="UNSORTED",Arirang
+#EXTINF:-1 tvg-logo="" group-title="LYNX",Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="UNSORTED",Citra Drama
+#EXTINF:-1 tvg-logo="" group-title="LYNX",Citra Drama
 http://brhn.xyz/useetvgo/m3u/cdrama.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="UNSORTED",Dunia Lain
+#EXTINF:-1 tvg-logo="" group-title="LYNX",Dunia Lain
 http://brhn.xyz/useetvgo/m3u/dunialain.m3u8
