@@ -6,7 +6,7 @@ http://brhn.xyz/useetvgo/m3u/imc.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/xura-kura/icon/raw/master/logo_celestialmovie_big.png" group-title="MOVIES",Celestial Movie
 http://brhn.xyz/useetvgo/m3u/celestialmovie.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/xura-kura/icon/raw/master/logo_cinemaworld_big.png" group-title="MOVIES",Cinema World [D]
+#EXTINF:-1 tvg-logo="https://github.com/xura-kura/icon/raw/master/logo_cinemaworld_big.png" group-title="MOVIES",Cinema World - [D]
 http://210.210.155.35/uq2663/h/h04/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/xura-kura/icon/raw/master/logo_bioskopindonesia_big1.png" group-title="MOVIES",Bioskop Indonesia
@@ -21,7 +21,7 @@ http://brhn.xyz/useetvgo/m3u/galaxy.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/xura-kura/icon/raw/master/logo_thrill_big.png" group-title="MOVIES",Thrill
 http://brhn.xyz/useetvgo/m3u/thrill.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/xura-kura/icon/raw/master/logo_zbioskop_big1.png" group-title="MOVIES",ZeeBioskop [D]
+#EXTINF:-1 tvg-logo="https://github.com/xura-kura/icon/raw/master/logo_zbioskop_big1.png" group-title="MOVIES",ZeeBioskop - [D]
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8?fluxustv.m3u8
 
 
